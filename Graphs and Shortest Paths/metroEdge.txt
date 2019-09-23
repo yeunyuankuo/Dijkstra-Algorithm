@@ -1,0 +1,60 @@
+Taipei Main Station
+Ximen
+1
+Ximen
+Taipei Main Station
+1
+Taipei Main Station
+Zhongxiao Fuxing
+5
+Zhongxiao Fuxing
+Taipei Main Station
+5
+Zhongxiao Fuxing
+Zhongxia Dunhua
+1
+Zhongxia Dunhua
+Zhongxiao Fuxing
+1
+Zhongxiao Xinsheng
+Shandao Temple
+5
+Shandao Temple
+Zhongxiao Xinsheng
+5
+Zhongxiao Xinsheng
+Taipei Main Station
+5
+Taipei Main Station
+Zhongxiao Xinsheng
+5
+Daan Park
+Taipei 101/World Trade Center
+5
+Taipei 101/World Trade Center
+Daan Park
+5
+Daan Park
+Zhongxiao Fuxing
+1
+Zhongxiao Fuxing
+Daan Park
+1
+Zhongshan
+Taipei Main Station
+1
+Taipei Main Station
+Zhongshan
+1
+Songjiang Nanjing
+Zhongshan
+5
+Songjiang Nanjing
+Taipei 101/World Trade Center
+5
+Zhongshan
+Songjiang Nanjing
+5
+Taipei 101/World Trade Center
+Songjiang Nanjing
+5
